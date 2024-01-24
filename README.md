@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasihaider&label=Profile%20views&color=0e75b6&style=flat" alt="wasihaider" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasihaider" alt="wasihaider" /></a> </p>
-
 <img align="right" alt="coding" width=300 height=300 src="https://media.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" />
 
 <p align="left"> <a href="https://twitter.com/wsi_haidr" target="blank"><img src="https://img.shields.io/twitter/follow/wsi_haidr?logo=twitter&style=for-the-badge" alt="wsi_haidr" /></a> </p>
@@ -43,5 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasihaider&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="wasihaider" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasihaider&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" alt="wasihaider" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasihaider" alt="wasihaider" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasihaider&theme=dark" alt="wasihaider" /></p>
