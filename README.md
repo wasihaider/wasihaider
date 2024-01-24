@@ -1,3 +1,6 @@
+![MasterHead](https://github.com/wasihaider/wasihaider/assets/38087038/b0c70809-b296-41e5-ad9d-82f9b843c795)
+
+
 <h1 align="center">Hi 👋, I'm Wasi Haider</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
